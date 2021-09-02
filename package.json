@@ -25,7 +25,7 @@
     "less-loader": "^5.0.0",
     "lodash": "^4.17.21",
     "normalize.css": "^5.0.0",
-    "object-path": "^0.11.5",
+    "object-path": "^0.11.6",
     "popper.js": "^1.12",
     "postcss": "^8.2.10",
     "resolve-url-loader": "^3.1.2",
