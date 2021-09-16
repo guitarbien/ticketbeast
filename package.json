@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "node-forge": "^0.10.0",
-    "set-value": "^2.0.1"
+    "set-value": "^4.0.1"
   }
 }
