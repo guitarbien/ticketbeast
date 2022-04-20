@@ -10,7 +10,7 @@ jobs:
       - name: Get project data
         env:
           GITHUB_TOKEN: ${{ secrets.PR_MANAGEMENT_SECRET }}
-          ORGANIZATION: guitarbien
+          ORGANIZATION: users
           PROJECT_NUMBER: 1
         run: |
           gh api graphql -f query='
